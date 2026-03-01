@@ -85,6 +85,21 @@ Excellent PR showcase (reserved section):
 - PR #2: <to be filled during talk>
 - why these are good: architecture clarity / tests / maintainability / iteration quality
 
+https://github.com/mofa-org/mofa/pull/374
+https://github.com/mofa-org/mofa/pull/493
+https://github.com/mofa-org/mofa/pull/318
+https://github.com/mofa-org/mofa/pull/248
+https://github.com/mofa-org/mofa/pull/396
+https://github.com/mofa-org/mofa/pull/501
+https://github.com/mofa-org/mofa/pull/176
+https://github.com/mofa-org/mofa/pull/638
+https://github.com/mofa-org/mofa/pull/507
+https://github.com/mofa-org/mofaclaw/pull/44
+
+There are many more, which I won’t list here one by one.
+Thank you all for your contributions.
+
+
 PR review principle:
 evaluation is based on quality and depth, not just quantity.
 
